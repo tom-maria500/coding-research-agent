@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
+# env files
+.env
+**/.env
+
+=======
+>>>>>>> 495c9c1 (add gitignore file)
 # env files
 .env
 **/.env
